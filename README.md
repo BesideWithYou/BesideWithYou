@@ -1,10 +1,11 @@
 <div align=center>
+  
 # Hi, this is JiquanWang :wave:
 
 <p>
 
-[![Juejin](https://img.shields.io/badge/juejin-%E5%AD%99%E8%BD%B6%E6%89%AC-1e80ff?logo=bytedance)](https://juejin.cn/user/1451011082036456/posts)
-[![Github Stars](https://img.shields.io/github/stars/syy11cn?color=faf408&label=github%20stars&logo=github)](https://github.com/JiquanWang99)
+[![Juejin](https://img.shields.io/badge/juejin?logo=bytedance)](https://juejin.cn/user/1451011082036456/posts)
+[![Github Stars](https://img.shields.io/github/stars/JiquanWang99?color=faf408&label=github%20stars&logo=github)](https://github.com/JiquanWang99)
 
 </p>
 
