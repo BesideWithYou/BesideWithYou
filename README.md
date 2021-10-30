@@ -4,7 +4,7 @@
 
 <p>
 
-[![Juejin](https://img.shields.io/badge/juejin?logo=bytedance)](https://juejin.cn/user/1451011082036456/posts)
+[![Juejin](https://img.shields.io/badge?logo=bytedance)](https://juejin.cn/user/1451011082036456/posts)
 [![Github Stars](https://img.shields.io/github/stars/JiquanWang99?color=faf408&label=github%20stars&logo=github)](https://github.com/JiquanWang99)
 
 </p>
