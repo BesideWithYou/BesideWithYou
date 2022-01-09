@@ -15,8 +15,8 @@
 
 - Major in Software Engineering. :man_technologist:
   
-- I am a Front-End engineer, I mainly use React、TypeScript.
-- I am learning Rust(Web Server、WebAssembly).
+ I am a Front-End engineer, I mainly use React、TypeScript.
+ I am learning Rust(Web Server、WebAssembly).
 
 ## Orientation :dart:
 
