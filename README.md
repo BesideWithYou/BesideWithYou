@@ -13,10 +13,10 @@
 
 ## Introduction :raised_hands:
 
-- Major in Software Engineering. :man_technologist:
+Major in Software Engineering. :man_technologist:
   
- I am a Front-End engineer, I mainly use React、TypeScript.
- I am learning Rust(Web Server、WebAssembly).
+  <p>I am a Front-End engineer, I mainly use React、TypeScript.</p>
+  <p>I am learning Rust(Web Server、WebAssembly).</p>
 
 ## Orientation :dart:
 
