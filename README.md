@@ -2,13 +2,6 @@
   
 # Hi, this is JiquanWang :wave:
 
-<p>
-
-[![Juejin](https://img.shields.io/badge/-%E6%8E%98%E9%87%91-blue)](https://juejin.cn/user/1451011082036456/posts)
-[![Github Stars](https://img.shields.io/github/stars/JiquanWang99?color=faf408&label=github%20stars&logo=github)](https://github.com/JiquanWang99)
-
-</p>
-
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JiquanWang99)
 
 ## Introduction :raised_hands:
