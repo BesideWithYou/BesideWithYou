@@ -1,23 +1,15 @@
 <div align=center>
   
-# Hi, this is JiquanWang :wave:
+# Hi, this is JiquanWang :star:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JiquanWang99)
 
-## Introduction :raised_hands:
+## Introduction 🖌️:
 
 Major in Software Engineering. :man_technologist:
   
-  <p>I am a Front-End engineer, I mainly use React、TypeScript、Node.js.</p>
-  <p>I am learning Rust (Web Server、WebAssembly).</p>
-
-## Orientation :dart:
-
-I love coding. :heart:
-
-I love Front End technologys. :heart:
-
-## Analysis :point_down:
+  <p>A Front-End engineer.</p>
+  <p>Learning Rust.</p>
 
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiquanWang99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
