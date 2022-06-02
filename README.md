@@ -1,6 +1,6 @@
 <div align=center>
   
-# Hi, this is JiquanWang :star:
+# Hi, this is Hubbub :star:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=JiquanWang99)
 
