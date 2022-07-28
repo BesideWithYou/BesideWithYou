@@ -1,5 +1,5 @@
-<div>
-Just a coder.
+<div align="center">
+<b>Just a coder.</b>
 
 
 <br><br/>
