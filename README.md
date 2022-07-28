@@ -1,11 +1,6 @@
 <div>
-## Introduction 🖌️:
-
-Major in Software Engineering. :man_technologist:
+Just a coder.
   
-  <p>A Front-End engineer.</p>
-  <p>Learning Rust.</p>
-
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=FacesPass&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
