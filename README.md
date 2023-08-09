@@ -1,9 +1,9 @@
 <div align="center">
-<b>Just a cat.</b>
+<b>Just a little cat.</b>
 
 
 <br><br/>
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuffMeow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=PuffMeow&layout=compact)
 </div>
 
 ![](https://hit.yhype.me/github/profile?user_id=57290456)
